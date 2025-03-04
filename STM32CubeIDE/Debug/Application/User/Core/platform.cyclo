@@ -1,0 +1,7 @@
+../Application/User/Core/platform.c:67:9:VL53L5CX_RdByte	1
+../Application/User/Core/platform.c:85:9:VL53L5CX_WrByte	1
+../Application/User/Core/platform.c:101:9:VL53L5CX_WrMulti	1
+../Application/User/Core/platform.c:112:9:VL53L5CX_RdMulti	1
+../Application/User/Core/platform.c:128:9:VL53L5CX_Reset_Sensor	1
+../Application/User/Core/platform.c:145:6:VL53L5CX_SwapBuffer	2
+../Application/User/Core/platform.c:164:9:VL53L5CX_WaitMs	1
